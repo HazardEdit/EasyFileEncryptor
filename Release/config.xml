@@ -1,0 +1,5 @@
+<Encryptor>
+	<Key>asdfghjkloiuzt1234567890xcvbnmjh</Key>
+	<Salt>df4df56g</Salt>
+	<Iterations>10</Iterations>
+</Encryptor>
